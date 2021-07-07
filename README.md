@@ -1,7 +1,7 @@
 # area37
 
-Experiment with Rishi, demonstrating how the SOFIA analysis for Area 37
-(Mediterranean and Black Sea) can run in TAF.
+Experiment with Arni, demonstrating how the SOFIA analysis for Area 37
+(Mediterranean and Black Sea) can run in TAF for shrimps.
 
 ## How to run
 
